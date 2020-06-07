@@ -9,3 +9,7 @@
 ![](images/movingavg.png)
 + *Candlestick graph for depicting high and low adjusted close price values for a given period*\
 ![](images/Candlestic.png)
+
+Youtubers Referenced to learn the skills in this project:
+Computer Science
+Sentdex
