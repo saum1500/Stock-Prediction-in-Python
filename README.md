@@ -7,10 +7,16 @@
 ## Visualization included
 + *Moving Averages and adjusted close price shown on simple graphs*\
 ![](images/movingavg.png)
-+ *Candlestick graph for depicting high and low adjusted close price values for a given period*\
++ *Candlestick graph for depicting Open, High, Low, and Close price extracted from the adjusted close price values for a given period*\
 ![](images/Candlestic.png)
+
+## Decision Tree Regressor
+### The Decision Tree Regressor builds a classification model in the form of a tree structure. It breaks the dataset down into smaller and smaller subsets while incrementally making decisions. I used the package offered by Sklearn for this. I split the data collected into training and test data. The model was fitted with the training dataset. It gave an accuracy of over 96% for the testing dataset. This is the final visualization of the predictions
+![](images/prediction.png)\
 Documentations Referred to:
-MPLFinance matplotlib \
++ MPLFinance matplotlib
++ Decision Tree Algorithm
+
 Youtubers Referred to learn the skills in this project:
-Computer Science
-Sentdex
++ Computer Science
++ Sentdex
