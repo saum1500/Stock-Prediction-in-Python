@@ -6,8 +6,9 @@
 
 ## Visualization included
 + *Moving Averages and adjusted close price shown on simple graphs*\
+![](images/movingavg.png)
 + *Candlestick graph for depicting high and low adjusted close price values for a given period*\
-
+![](images/Candlestic.png)
 Documentations Referred to:
 MPLFinance matplotlib \
 Youtubers Referred to learn the skills in this project:
